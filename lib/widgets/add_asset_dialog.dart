@@ -22,11 +22,9 @@ class AddAssetDialogController extends GetxController {
     var respnseData = await httpService.get("currencies");
     CurrenciesListAPIResponse currenciesListAPIResponse =
         CurrenciesListAPIResponse.fromJson(respnseData);
-    currenciesListAPIResponse.data?.forEach(
-      (coin) {
-        assets.add(coin.name!);
-      },
-    );
+    currenciesListAPIResponse.data?.forEach((coin) {
+      assets.add(coin.name!);
+    });
     selectedAsset.value = assets.first;
     loading.value = false;
   }
