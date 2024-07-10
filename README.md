@@ -7,16 +7,15 @@ You can easily add crypto coins you currently hold and know more about their cir
 <h2>Project Screenshots:</h2>
 </br>
 <p>
-<img src="https://github.com/shiwangaryan/CryptoCounter/assets/126906676/1fdb35ef-09a6-4c30-b37e-6e9630766c84" alt="project-screenshot" width="210" height="460/">
+<img src="https://github.com/shiwangaryan/CryptoCounter/assets/126906676/1fdb35ef-09a6-4c30-b37e-6e9630766c84" alt="project-screenshot" width="220" height="460/">
 
-<img src="https://github.com/shiwangaryan/CryptoCounter/assets/126906676/834cda2c-c2e9-4d1b-9e7b-e0479cc299ad" alt="project-screenshot" width="210" height="460/">
+<img src="https://github.com/shiwangaryan/CryptoCounter/assets/126906676/834cda2c-c2e9-4d1b-9e7b-e0479cc299ad" alt="project-screenshot" width="220" height="460/">
 
-<img src="https://github.com/shiwangaryan/CryptoCounter/assets/126906676/0dd93b8b-7440-4519-bd99-ba3c14f49880" alt="project-screenshot" width="210" height="460/">
+<img src="https://github.com/shiwangaryan/CryptoCounter/assets/126906676/0dd93b8b-7440-4519-bd99-ba3c14f49880" alt="project-screenshot" width="220" height="460/">
 
-<img src="https://github.com/shiwangaryan/CryptoCounter/assets/126906676/b534cb00-0cd9-4c88-9499-4da3d1b03610" alt="project-screenshot" width="210" height="460/">
+<img src="https://github.com/shiwangaryan/CryptoCounter/assets/126906676/b534cb00-0cd9-4c88-9499-4da3d1b03610" alt="project-screenshot" width="220" height="460/">
 </p>
-  
-</br>
+
 </br>
 <h2>🧐 Features</h2>
 </br>
@@ -25,7 +24,6 @@ Here are some of the project's best features:
 *   <b><i>Keep a track of your coins</i></b> , one place to stop to store your crypto currencies details and know more about them.
 *   <b><i>Easy to use UI</b></i>, a simplistic UI approach for a smooth user experience.
 *   <b><i>Fast and Efficient</b></i> by utilising powerful packages such as GetX, Dio and Shared_Prefernces app's operates very smoothly.
-</br>
 </br>
 <h2>🧑‍💻 Tech Stack & Libraries</h2>
 </br>
