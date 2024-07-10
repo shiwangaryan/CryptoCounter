@@ -25,8 +25,10 @@ Here are some of the project's best features:
 *   <b><i>Easy to use UI</b></i>, a simplistic UI approach for a smooth user experience.
 *   <b><i>Fast and Efficient</b></i> by utilising powerful packages such as GetX, Dio and Shared_Prefernces app's operates very smoothly.
 </br>
-<h2>🧑‍💻 Tech Stack & Libraries</h2>
+<h2>🧑‍💻 Built with</h2>
 </br>
+Technologies used in the project:
+
 *   <i>Flutter</i>
 *   <i>GetX</i>
 *   <i>Dio</i>
@@ -56,10 +58,3 @@ flutter run
 
   
  </br>
-<h2>💻 Built with</h2>
-</br>
-Technologies used in the project:
-
-*   Flutter
-*   Hive DB
-*   Firebase
