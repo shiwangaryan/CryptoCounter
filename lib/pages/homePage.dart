@@ -23,7 +23,7 @@ class HomePage extends StatelessWidget {
   PreferredSizeWidget _appBar(BuildContext context) {
     return AppBar(
       title: const CircleAvatar(
-        backgroundImage: NetworkImage("https://i.pravatar.cc/150?img=3"),
+        backgroundImage: NetworkImage("https://i.pravatar.cc/150?img=65"),
       ),
       actions: [
         IconButton(
